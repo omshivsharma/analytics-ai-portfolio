@@ -1,0 +1,7 @@
+# generated data — recreate with each project's generate_data.py
+*.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
